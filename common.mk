@@ -24,3 +24,6 @@ include vendor/themes/themes.mk
 
 # QS Tile styles
 include vendor/themes/qsstyles.mk
+
+# GVisual Mod
+include vendor/themes/gvisual.mk
