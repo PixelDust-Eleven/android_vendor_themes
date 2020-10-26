@@ -18,6 +18,15 @@ PRODUCT_PACKAGES += \
     FontSonySketchSourceOverlay \
     FontSurferSourceOverlay
 
+# R Fonts
+PRODUCT_PACKAGES += \
+    FontArbutusSourceOverlay \
+    FontArvoLatoOverlay \
+    FontKaiOverlay \
+    FontRubikRubikOverlay \
+    FontSamOverlay \
+    FontVictorOverlay
+
 PRODUCT_COPY_FILES += \
     vendor/themes/fonts/prebuilt/Aclonica.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Aclonica.ttf \
     vendor/themes/fonts/prebuilt/Amarante.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Amarante.ttf \
