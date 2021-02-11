@@ -33,3 +33,6 @@ include vendor/themes/navbarcolors.mk
 
 # Switch styles
 include vendor/themes/switchstyles.mk
+
+# Brightness sliders styles
+include vendor/themes/brightness.mk
