@@ -27,3 +27,6 @@ include vendor/themes/qsstyles.mk
 
 # GVisual Mod
 include vendor/themes/gvisual.mk
+
+# GVisual Mod navbar colors
+include vendor/themes/navbarcolors.mk
