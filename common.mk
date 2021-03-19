@@ -30,3 +30,6 @@ include vendor/themes/gvisual.mk
 
 # GVisual Mod navbar colors
 include vendor/themes/navbarcolors.mk
+
+# Switch styles
+include vendor/themes/switchstyles.mk
