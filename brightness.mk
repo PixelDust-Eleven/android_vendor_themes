@@ -2,7 +2,15 @@
 PRODUCT_PACKAGES += \
     BrightnessSliderDefault \
     BrightnessSliderDaniel \
+    BrightnessSliderFlat \
+    BrightnessSliderHalfGradient \
     BrightnessSliderMemeMini \
     BrightnessSliderMemeRound \
     BrightnessSliderMemeRoundStroke \
-    BrightnessSliderMemeStroke
+    BrightnessSliderMemeStroke \
+    BrightnessSliderMemeStrokeGradient \
+    BrightnessSliderMiniGradient \
+    BrightnessSliderMiniHalf \
+    BrightnessSliderOOS \
+    BrightnessSliderRoundGradient \
+    BrightnessSliderRoundStrokeGradient
