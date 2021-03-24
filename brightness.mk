@@ -1,6 +1,5 @@
 # Brightness sliders styles
 PRODUCT_PACKAGES += \
-    BrightnessSliderDefault \
     BrightnessSliderDaniel \
     BrightnessSliderFlat \
     BrightnessSliderHalfGradient \
