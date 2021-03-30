@@ -7,4 +7,8 @@ PRODUCT_PACKAGES += \
     ChocoXSystemOverlay \
     ChocoXSystemUIOverlay \
     DarkGreySystemOverlay \
-    DarkGreySystemUIOverlay
+    DarkGreySystemUIOverlay \
+    ClearSpringSystemOverlay \
+    ClearSpringSystemUIOverlay \
+    DarkAubergineSystemOverlay \
+    DarkAubergineSystemUIOverlay
